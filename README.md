@@ -1,16 +1,14 @@
-## Hi there 👋
+### Skills
 
-<!--
-**antonelladev/antonelladev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,cpp,python,html,css,django,arduino,php,cloudflare,mysql,mongo,figma,ps,androidstudio,flutter,react,firebase,unity" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+### Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.youtube.com/@antonelladev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/linda-rodríguez-languidey-557120353"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:linda@antonella.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://antonella.dev/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
