@@ -2,16 +2,12 @@
   <img src="https://github.com/user-attachments/assets/4827bfdb-3fec-40f9-86ef-ff7472ad50dc" alt="antonelladevbanner" width="100%">
 </p>
 
-## 🧑‍💻 About me
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZpcWZ1YzI3M2Ztdms1bm5tNXNjdGozbDJrcGFkOWV2ZHpxZnd0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZgWhbVEX8L7H2f56F6/giphy.gif" width="25"> About me
 
-<img src="https://api.iconify.design/pixelarticons:human-handsup.svg" width="18" height="18" style="vertical-align: middle;"> **Education:** Systems Engineering student at Univalle.
-<br>
-<img src="https://api.iconify.design/pixelarticons:paint-bucket.svg" width="18" height="18" style="vertical-align: middle;"> **Focus:** Frontend Development & UI/UX Design (HTML/CSS).
-<br>
-<img src="https://api.iconify.design/pixelarticons:computer.svg" width="18" height="18" style="vertical-align: middle;"> **Tech Stack:** Python, Django, Linux administration, and more.
-<br>
-<img src="https://api.iconify.design/pixelarticons:globe.svg" width="18" height="18" style="vertical-align: middle;"> **Languages:** Bilingual (Español / English).
-
+<img src="https://img.icons8.com/retro/32/space-shuttle.png" width="18"> **Education:** Systems Engineering student at Univalle.
+<img src="https://img.icons8.com/retro/32/paint-palette.png" width="18"> **Focus:** Frontend Development & UI/UX Design (HTML/CSS).
+<img src="https://img.icons8.com/retro/32/computer-hardware.png" width="18"> **Tech Stack:** Python, Django, Linux administration, and more.
+<img src="https://img.icons8.com/retro/32/globe.png" width="18"> **Languages:** Bilingual (Español / English).
 ---
 
 ### 🛠️ Skills
