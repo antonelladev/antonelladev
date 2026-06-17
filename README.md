@@ -4,11 +4,11 @@
 
 ## 👩‍💻 About me
 
--  **Education:** Systems Engineering student at Univalle.
--  **Focus:** Frontend Development & UI/UX Design (HTML/CSS).
--  **Tech Stack:** Python, Django, Linux administration, and more.
--  **Languages:** Bilingual (Español / English).
----
+- 🌌 **Education:** Systems Engineering student at Univalle.
+- 🎨 **Focus:** Frontend Development & UI/UX Design (HTML/CSS).
+- ⚙️ **Tech Stack:** Python, Django, Linux administration, and more.
+- 🗺️ **Languages:** Bilingual (Español / English).
+  
 
 ### Skills
 
