@@ -4,21 +4,24 @@
 
 ## 👩‍💻 About me
 
-- 🌌 **Education:** Systems Engineering student at Univalle.
-- 🎨 **Focus:** Frontend Development & UI/UX Design (HTML/CSS).
-- ⚙️ **Tech Stack:** Python, Django, Linux administration, and more.
-- 🗺️ **Languages:** Bilingual (Español / English).
-  
+🌌 **Education:** Systems Engineering student at Univalle. <br>
+🎨 **Focus:** Frontend Development & UI/UX Design (HTML/CSS). <br>
+⚙️ **Tech Stack:** Python, Django, Linux administration, and more. <br>
+🗺️ **Languages:** Bilingual (Español / English).
 
-### Skills
+<hr>
+
+### 🛠️ Skills
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,python,html,cpp,css,django,arduino,php,cloudflare,mysql,mongo,figma,ps,androidstudio,flutter,react,firebase,unity" />
+    <img src="https://skillicons.dev/icons?i=html,css,figma,ps,react,typescript,linux,python,django,cpp,arduino,php,cloudflare,mysql,mongo,androidstudio,flutter,firebase,unity" />
   </a>
 </p>
 
-### Contact
+<hr>
+
+### 🤝 Contact
 
 <p align="left">
   <a href="https://www.youtube.com/@antonelladev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
