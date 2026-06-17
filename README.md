@@ -2,14 +2,14 @@
   <img src="https://github.com/user-attachments/assets/4827bfdb-3fec-40f9-86ef-ff7472ad50dc" alt="antonelladevbanner" width="100%">
 </p>
 
-## 👩‍💻 About me
+## <img src="https://img.icons8.com/retro/32/programmer.png" width="22"> About me
 
-🌌 **Education:** Systems Engineering student at Univalle. <br>
-🎨 **Focus:** Frontend Development & UI/UX Design (HTML/CSS). <br>
-⚙️ **Tech Stack:** Python, Django, Linux administration, and more. <br>
-🗺️ **Languages:** Bilingual (Español / English).
+<img src="https://img.icons8.com/retro/32/programmer.png" width="18"> **Education:** Systems Engineering student at Univalle.
+<img src="https://img.icons8.com/retro/32/paint-palette-with-brush.png" width="18"> **Focus:** Frontend Development & UI/UX Design (HTML/CSS).
+<img src="https://img.icons8.com/retro/32/desktop-computer.png" width="18"> **Tech Stack:** Python, Django, Linux administration, and more.
+<img src="https://img.icons8.com/retro/32/language.png" width="18"> **Languages:** Bilingual (Español / English).
 
-<hr>
+---
 
 ### 🛠️ Skills
 
@@ -18,8 +18,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,figma,ps,react,typescript,linux,python,django,cpp,arduino,php,cloudflare,mysql,mongo,androidstudio,flutter,firebase,unity" />
   </a>
 </p>
-
-<hr>
 
 ### 🤝 Contact
 
