@@ -1,3 +1,4 @@
+<img width="600" height="250" alt="antonelladevbanner" src="https://github.com/user-attachments/assets/4827bfdb-3fec-40f9-86ef-ff7472ad50dc" />
 ### Skills
 
 <p align="left">
