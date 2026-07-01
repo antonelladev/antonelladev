@@ -33,6 +33,6 @@
 
 | | |
 | --- | --- |
-| ![Mis Estadísticas](https://github-readme-stats-eight-theta.vercel.app/api?username=antonelladev&show_icons=true&theme=dark&hide_border=true&title_color=ff3333&icon_color=ff3333&text_color=ffffff) | ![Mis Lenguajes](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antonelladev&layout=compact&theme=dark&hide_border=true&title_color=ff3333&text_color=ffffff) |
+| ![Mis Estadísticas](https://github-readme-stats-eight-theta.vercel.app/api?username=antonelladev&show_icons=true&theme=dark&hide_border=true&title_color=ff3333&icon_color=ff3333&text_color=ffffff) | ![Mis Lenguajes](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antonelladev&layout=compact&theme=dark&hide_border=true&title_color=ff3333&text_color=ffffff&hide=typescript,html,css) |
 
 [![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=antonelladev&theme=react-dark&bg_color=0d1117&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
