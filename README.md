@@ -31,9 +31,8 @@
   <a href="https://antonella.dev/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antonelladev&show_icons=true&theme=dark&hide_border=true" alt="Mis Estadísticas" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonelladev&layout=compact&theme=dark&hide_border=true" alt="Mis Lenguajes" width="48%" />
-</p>
+![Mis Estadísticas](https://github-readme-stats.vercel.app/api?username=antonelladev&show_icons=true&theme=dark&hide_border=true)
+
+![Mis Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=antonelladev&layout=compact&theme=dark&hide_border=true)
 
 [![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=antonelladev&theme=react-dark&bg_color=0d1117&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
