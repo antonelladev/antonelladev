@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4827bfdb-3fec-40f9-86ef-ff7472ad50dc" alt="antonelladevbanner" width="100%">
+  <img src="https://github.com/user-attachments/assets/6366970a-bc50-471c-ba15-e0f1aacef232" alt="antonelladevbanner" width="100%">
 </p>
 
 ## 👩‍💻 About me
@@ -13,8 +13,6 @@
 🗺️ **Languages:** Bilingual (Español / English).
 
 ---
-
-
 
 | | |
 | --- | --- |
@@ -38,4 +36,3 @@
   <a href="mailto:linda@antonella.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://antonella.dev/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
-
