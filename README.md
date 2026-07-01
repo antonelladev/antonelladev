@@ -16,9 +16,9 @@
 
 | | |
 | --- | --- |
-| ![Mis Estadísticas](https://github-readme-stats-eight-theta.vercel.app/api?username=antonelladev&show_icons=true&theme=dark&hide_border=true&title_color=ff3333&icon_color=ff3333&text_color=ffffff) | ![Mis Lenguajes](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antonelladev&layout=compact&theme=dark&hide_border=true&title_color=ff3333&text_color=ffffff) |
+| ![Mis Estadísticas](https://github-readme-stats-eight-theta.vercel.app/api?username=antonelladev&show_icons=true&theme=dark&hide_border=true&title_color=471f94&icon_color=471f94&text_color=ffffff) | ![Mis Lenguajes](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antonelladev&layout=compact&theme=dark&hide_border=true&title_color=471f94&text_color=ffffff) |
 
-[![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=antonelladev&bg_color=0d1117&color=ff0000&line=ff3333&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=antonelladev&bg_color=0d1117&color=471f94&line=471f94&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🛠️ Skills
 
