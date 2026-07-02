@@ -15,11 +15,13 @@
 <p align="left">
   <img src="https://github.com/user-attachments/assets/3e32b64b-2334-472e-95bf-03cc4636d615" align="right" width="220" alt="#FURURISTIC - Editado" style="margin-left: 20px; border-radius: 15px;">
   <div>
-  <code>> print("Hello World! I am Linda Antonella.")</code>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=2000&color=F8F8F2&background=1E1E2E00&vCenter=true&width=435&lines=%3E+print(%22Hello+World!+I+am+Linda+Antonella.%22)" alt="Typing SVG" />
+    </a>
   <p>
-  Soy estudiante de <b>Ingeniería de Sistemas Informaticos </b> en Univalle. Me apasiona el desarrollo backend y frontend, combinando la lógica de programación con la creación de experiencias visuales únicas.
-  <br><br>
-  Currently, I focus my studies and projects on development with <b>Python and Django</b>, Linux systems administration, UI/UX design, and exploring new software technologies.
+    Soy estudiante de <b>Ingeniería de Sistemas Informaticos </b> en Univalle. Me apasiona el desarrollo backend y frontend, combinando la lógica de programación con la creación de experiencias visuales únicas.
+    <br><br>
+    Currently, I focus my studies and projects on development with <b>Python and Django</b>, Linux systems administration, UI/UX design, and exploring new software technologies.
   </p>
   </div>
 <br clear="right">
@@ -36,7 +38,7 @@
 ![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&loveColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
