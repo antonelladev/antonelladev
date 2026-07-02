@@ -16,7 +16,7 @@
   <img src="https://github.com/user-attachments/assets/3e32b64b-2334-472e-95bf-03cc4636d615" align="right" width="220" alt="#FURURISTIC - Editado" style="margin-left: 20px; border-radius: 15px;">
   <div>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=2000&color=F8F8F2&background=1E1E2E00&vCenter=true&width=435&lines=%3E+print(%22Hello+World!+I+am+Linda+Antonella.%22)" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=2000&color=F8F8F2&background=1E1E2E00&vCenter=true&width=435&lines=%3E+print(%22Hello+World!+I+am+Antonella+Dev.%22)" alt="Typing SVG" />
     </a>
   <p>
     Soy estudiante de <b>Ingeniería de Sistemas Informaticos </b> en Univalle. Me apasiona el desarrollo backend y frontend, combinando la lógica de programación con la creación de experiencias visuales únicas.
