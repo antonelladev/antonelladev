@@ -13,7 +13,7 @@
 ----
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/3fe58868-48a0-4004-b729-6f5b8920506f" align="right" width="220" alt="Antonella Dev Cyberpunk" style="margin-left: 20px; border-radius: 15px;">
+  <img src="https://github.com/user-attachments/assets/fdc90076-cb21-42c4-aef0-e8881c8d3bca" align="right" width="220" alt="#FURURISTIC - Editado" style="margin-left: 20px; border-radius: 15px;">
   <div>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=2000&color=F8F8F2&background=1E1E2E00&vCenter=true&width=435&lines=%3E+print(%22Hello+World!+I+am+Antonella+Dev.%22)" alt="Typing SVG" />
@@ -72,7 +72,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=antonelladev&bg_color=0d1117&color=471f94&line=471f94&point=ffffff&hide_border=true"/>
 </a>
 </p>
-<!-- 
-#Imagen del 2do gif
-<img width="736" height="1041" alt="#FURURISTIC - Editado" src="https://github.com/user-attachments/assets/fdc90076-cb21-42c4-aef0-e8881c8d3bca" />
--->
