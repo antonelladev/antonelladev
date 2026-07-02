@@ -13,11 +13,11 @@
 ----
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/4a371a8f-b1b8-473a-b2c4-b7a8ba2b4e3f" align="right" width="220" alt="#FURURISTIC" style="margin-left: 20px; border-radius: 15px;">
+  <img src="https://github.com/user-attachments/assets/3e32b64b-2334-472e-95bf-03cc4636d615" align="right" width="220" alt="#FURURISTIC - Editado" style="margin-left: 20px; border-radius: 15px;">
   <div>
   <code>> print("Hello World! I am Linda Antonella.")</code>
   <p>
-  Soy estudiante de <b>Ingeniería de Sistemas</b> en Univalle. Me apasiona el desarrollo backend y frontend, combinando la lógica de programación con la creación de experiencias visuales únicas.
+  Soy estudiante de <b>Ingeniería de Sistemas Informaticos </b> en Univalle. Me apasiona el desarrollo backend y frontend, combinando la lógica de programación con la creación de experiencias visuales únicas.
   <br><br>
   Actualmente, enfoco mis estudios y proyectos en el desarrollo con <b>Python y Django</b>, la administración de sistemas Linux, el diseño UI/UX y la exploración de nuevas tecnologías de software.
   </p>
