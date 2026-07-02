@@ -72,6 +72,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=antonelladev&bg_color=0d1117&color=471f94&line=471f94&point=ffffff&hide_border=true"/>
 </a>
 </p>
-
+<!-- 
 #Imagen del 2do gif
-#<img width="736" height="1041" alt="#FURURISTIC - Editado" src="https://github.com/user-attachments/assets/fdc90076-cb21-42c4-aef0-e8881c8d3bca" />
+<img width="736" height="1041" alt="#FURURISTIC - Editado" src="https://github.com/user-attachments/assets/fdc90076-cb21-42c4-aef0-e8881c8d3bca" />
+-->
