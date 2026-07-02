@@ -1,4 +1,6 @@
 <p align="center">
+  <img width="600" height="250" alt="Banner GitHub Antonella Dev" src="https://github.com/user-attachments/assets/3a5aec6d-81e9-4b17-9e6a-154fbfb3d4ca" />
+
   <img src="https://github.com/user-attachments/assets/6366970a-bc50-471c-ba15-e0f1aacef232" alt="antonelladevbanner" width="100%">
 </p>
 
