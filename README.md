@@ -19,7 +19,7 @@
   <p>
   Soy estudiante de <b>Ingeniería de Sistemas Informaticos </b> en Univalle. Me apasiona el desarrollo backend y frontend, combinando la lógica de programación con la creación de experiencias visuales únicas.
   <br><br>
-  Actualmente, enfoco mis estudios y proyectos en el desarrollo con <b>Python y Django</b>, la administración de sistemas Linux, el diseño UI/UX y la exploración de nuevas tecnologías de software.
+  Currently, I focus my studies and projects on development with <b>Python and Django</b>, Linux systems administration, UI/UX design, and exploring new software technologies.
   </p>
   </div>
 <br clear="right">
@@ -69,4 +69,4 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=antonelladev&bg_color=0d1117&color=471f94&line=471f94&point=ffffff&hide_border=true"/>
 </a>
-</p><img width="736" height="1041" alt="#FURURISTIC" src="https://github.com/user-attachments/assets/1b19c952-2520-437f-a9d5-a3ed954766ae" />
+</p>
