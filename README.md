@@ -1,7 +1,5 @@
 <p align="center">
-  <img width="600" height="250" alt="Banner GitHub Antonella Dev" src="https://github.com/user-attachments/assets/3a5aec6d-81e9-4b17-9e6a-154fbfb3d4ca" />
-
-  <img src="https://github.com/user-attachments/assets/6366970a-bc50-471c-ba15-e0f1aacef232" alt="antonelladevbanner" width="100%">
+  <video src="https://github.com/user-attachments/assets/a14aff85-f199-489d-a9ce-0b298be465ac" width="100%" autoplay loop muted playsinline></video>
 </p>
 
 ## 👩‍💻 About me
