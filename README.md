@@ -1,5 +1,5 @@
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/a14aff85-f199-489d-a9ce-0b298be465ac" width="100%" autoplay loop muted playsinline></video>
+  <img src="https://github.com/user-attachments/assets/16943718-c2af-4ed7-b4e6-b632958ef75a" alt="VideoBannerAntonelladev" width="100%">
 </p>
 
 ## 👩‍💻 About me
