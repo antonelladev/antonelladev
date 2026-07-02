@@ -13,7 +13,7 @@
 ----
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/3e32b64b-2334-472e-95bf-03cc4636d615" align="right" width="220" alt="#FURURISTIC - Editado" style="margin-left: 20px; border-radius: 15px;">
+  <img src="https://github.com/user-attachments/assets/3fe58868-48a0-4004-b729-6f5b8920506f" align="right" width="220" alt="Antonella Dev Cyberpunk" style="margin-left: 20px; border-radius: 15px;">
   <div>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=2000&color=F8F8F2&background=1E1E2E00&vCenter=true&width=435&lines=%3E+print(%22Hello+World!+I+am+Antonella+Dev.%22)" alt="Typing SVG" />
