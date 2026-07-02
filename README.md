@@ -2,13 +2,13 @@
   <img src="https://github.com/user-attachments/assets/16943718-c2af-4ed7-b4e6-b632958ef75a" alt="VideoBannerAntonelladev" width="100%">
 </p>
 
-## 👩‍💻 About me
+##  About me
 
-🌌 **Education:** Systems Engineering student at Univalle.
+**Education:** Systems Engineering student at Univalle.
 <br>
-🎨 **Focus:** Frontend Development & UI/UX Design (HTML/CSS).
+ **Focus:** Frontend Development & UI/UX Design (HTML/CSS).
 <br>
-⚙️ **Tech Stack:** Python, Django, Linux administration, and more.
+ **Tech Stack:** Python, Django, Linux administration, and more.
 <br>
 🗺️ **Languages:** Bilingual (Español / English).
 
