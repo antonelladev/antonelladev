@@ -10,7 +10,7 @@
 <br>
  **Tech Stack:** Python, Django, Linux administration, and more.
 <br>
-🗺️ **Languages:** Bilingual (Español / English).
+ **Languages:** Bilingual (Español / English).
 
 ---
 
