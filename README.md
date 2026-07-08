@@ -20,8 +20,7 @@
     </a>
   <p>
     Soy estudiante de <b>Ingeniería de Sistemas Informaticos </b> en Univalle. Me apasiona el desarrollo backend y frontend, combinando la lógica de programación con la creación de experiencias visuales únicas.
-    <br><br>
-    Currently, I focus my studies and projects on development with <b>Python and Django</b>, Linux systems administration, UI/UX design, and exploring new software technologies.
+    <br>
   </p>
   </div>
 <br clear="right">
