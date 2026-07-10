@@ -4,7 +4,6 @@
   </p>
 
 <a href="https://www.linkedin.com/in/linda-rodr%C3%ADguez-languidey-557120353"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.youtube.com/@antonelladev"><img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="mailto:linda@antonella.dev"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://antonella.dev/"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
