@@ -18,7 +18,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=2000&color=F8F8F2&background=1E1E2E00&vCenter=true&width=435&lines=%3E+print(%22Hello+World!+I+am+Antonella+Dev.%22)" alt="Typing SVG" />
     </a>
   <p>
-    Soy estudiante de <b>Ingeniería de Sistemas Informaticos </b> en Univalle. Me apasiona el desarrollo backend y frontend, combinando la lógica de programación con la creación de experiencias visuales únicas.
+    soy estudiante de <b>Ingeniería de Sistemas Informaticos </b>   desarrollo backend y frontend, combinando la lógica de programación con la creación de experiencias visuales
     <br>
   </p>
   </div>
